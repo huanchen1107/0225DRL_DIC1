@@ -3,6 +3,8 @@
 ## Overview
 Today, we developed and deployed a modern, premium personal webpage for **Huan Chen**. The project involved creating a high-quality frontend and setting up a robust version control workflow with GitHub.
 
+**Live Demo:** [https://huanchen1107.github.io/0225DRL_DIC1/](https://huanchen1107.github.io/0225DRL_DIC1/)
+
 ![Homepage Screenshot](homepage.png)
 
 ## Completed Tasks
@@ -21,7 +23,7 @@ Today, we developed and deployed a modern, premium personal webpage for **Huan C
 ## File Structure
 - `index.html`: Core structure and content.
 - `style.css`: Visual design and animations.
-- `summary.md`: This summary report.
+- `README.md`: This project documentation.
 
 ## Future Recommendations
 - Add more personal project showcases to the 'Projects' section.
