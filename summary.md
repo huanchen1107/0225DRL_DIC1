@@ -3,6 +3,8 @@
 ## Overview
 Today, we developed and deployed a modern, premium personal webpage for **Huan Chen**. The project involved creating a high-quality frontend and setting up a robust version control workflow with GitHub.
 
+![Homepage Screenshot](homepage.png)
+
 ## Completed Tasks
 
 ### 1. Web Development
